@@ -1,0 +1,1200 @@
+THE TWIST
+Chubby Checker
+1
+1960
+M
+R&B
+SMOOTH
+Santana Featuring Rob Thomas
+2
+1999
+D
+Rock
+MACK THE KNIFE 
+Bobby Darin
+3
+1959
+M
+Pop
+UPTOWN FUNK!
+Mark Ronson Featuring Bruno Mars
+4
+2014
+M
+Pop
+HOW DO I LIVE
+LeAnn Rimes
+5
+1997
+F
+Country
+PARTY 8 ANTHEM
+LMFAO Featuring Lauren Bennett & Goon8
+6
+2011
+D
+Dance
+I GOTTA FEELING
+The Black Eyed Peas
+7
+2009
+D
+Pop
+MACARENA (BAYSIDE BOYS MIX)
+Los Del Rio
+8
+1993
+D
+Latin-Jazz
+SHAPE OF YOU
+Ed Sheeran
+9
+2017
+M
+Pop
+PHYSICAL
+Olivia Newton-John
+10
+1981
+F
+Pop
+YOU LIGHT UP MY LIFE
+Debby Boone
+11
+1977
+F
+Country
+HEY JUDE
+The Beatles
+12
+1968
+D
+Rock
+CLOSER
+The Chainsmokers Featuring Halsey
+13
+2016
+D
+Dance
+WE BELONG TOGETHER
+Mariah Carey
+14
+2005
+F
+R&B
+UN-BREAK MY HEART
+Toni Braxton
+15
+1996
+F
+R&B
+YEAH!
+Usher Featuring Lil Jon & Ludacris
+16
+2004
+M
+R&B
+BETTE DAVIS EYES
+Kim Carnes
+17
+1981
+F
+Pop
+ENDLESS LOVE
+Diana Ross & Lionel Richie
+18
+1981
+F
+R&B
+TONIGHT'S THE NIGHT
+Rod Stewart
+19
+1976
+M
+Rock
+FOOLISH GAMES
+Jewel
+20
+1995
+F
+Pop
+EVERYTHING I DO I DO IT FOR YOU
+Bryan Adams
+21
+1991
+M
+Pop
+I’LL MAKE LOVE TO YOU
+Boyz II Men
+22
+1994
+D
+R&B
+THE THEME FROM "A SUMMER PLACE" 
+Percy Faith And His Orchestra 
+23
+1960
+M
+Pop
+LE FREAK
+Chic
+24
+1978
+D
+Dance
+HOW DEEP IS YOUR LOVE
+Bee Gees
+25
+1977
+D
+Pop
+EYE OF THE TIGER
+Survivor
+26
+1982
+D
+Rock
+WE FOUND LOVE
+Rihanna Featuring Calvin Harris
+27
+2011
+D
+Pop
+LOW
+Flo Rida Featuring T-Pain 
+28
+2008
+D
+Hip-Hop
+I JUST WANT TO BE YOUR EVERYTHING 
+Andy Gibb
+29
+1977
+M
+Pop
+TOO CLOSE
+Next
+30
+1998
+D
+R&B
+EVERY BREATH YOU TAKE
+The Police
+31
+1983
+D
+Rock
+SOMEBODY THAT I USED TO KNOW
+Gotye Featuring Kimbra
+32
+2012
+M
+Rock
+DESPACITO
+Luis Fonsi & Daddy Yankee
+33
+2017
+D
+Latin-Jazz
+FLASHDANCE...WHAT A FEELING
+Irene Cara
+34
+1983
+F
+Pop
+ROLLING IN THE DEEP
+Adele
+35
+2011
+F
+Pop
+TOSSIN AND TURNIN
+Bobby Lewis
+36
+1961
+M
+R&B
+THE BATTLE OF NEW ORLEANS
+Johnny Horton
+37
+1959
+M
+Rock
+ONE SWEET DAY
+Mariah Carey & Boyz II Men
+38
+1995
+D
+R&B
+TRULY MADLY DEEPLY
+Savage Garden
+39
+1998
+D
+Pop
+SILLY LOVE SONGS
+Wings
+40
+1976
+D
+Rock
+LETS GET IT ON
+Marvin Gaye
+41
+1973
+M
+R&B
+NIGHT FEVER
+Bee Gees
+42
+1978
+D
+Dance
+ANOTHER ONE BITS THE DUST
+Queen 
+43
+1980
+D
+Rock
+SAY SAY SAY
+Paul McCartney And Michael Jackson
+44
+1983
+M
+Pop
+HOW YOU REMIND ME
+Nickelback
+45
+2001
+D
+Rock
+TIE A YELLOW RIBBON ROUND THE OLE OAK TREE
+Dawn Featuring Tony Orlando
+46
+1973
+D
+Pop
+IT'S ALL IN THE GAME
+Tommy Edwards
+47
+1958
+M
+R&B
+I WANT TO HOLD YOUR HAND
+The Beatles
+48
+1964
+D
+Rock
+SHADOW DANCING
+Andy Gibb
+49
+1978
+M
+Pop
+CALL ME MAYBE
+Carly Rae Jepsen
+50
+2012
+F
+Pop
+BLURRED LINES
+Robin Thicke Featuring T.I. + Pharrell
+51
+2013
+M
+R&B
+CANDLE IN THE WIND 1997
+Elton John
+52
+1997
+M
+Pop
+NO ONE
+Alicia Keys
+53
+2007
+F
+R&B
+I WILL ALWAYS LOVE YOU
+Whitney Houston
+54
+1992
+F
+R&B
+END OF THE ROAD
+Boyz II Men
+55
+1992
+D
+R&B
+BOOM BOOM POW
+The Black Eyed Peas
+56
+2009
+D
+Pop
+CALL ME
+Blondie
+57
+1980
+D
+Rock
+LET ME LOVE YOU
+Mario
+58
+2005
+M
+R&B
+STAYIN' ALIVE
+Bee Gees
+59
+1978
+D
+Dance
+LADY
+Kenny Rogers
+60
+1980
+M
+Country
+TIK TOK
+Ke$ha
+61
+2010
+F
+Pop
+I’M A BELIEVER
+The Monkees
+62
+1966
+D
+Pop
+GOLD DIGGER
+Kanye West
+63
+2005
+M
+Hip-Hop
+APOLOGIZE
+Timbaland Featuring OneRepublin
+64
+2007
+M
+Pop
+THE SIGN
+Ace of Base
+65
+1994
+D
+Pop
+CENTERFOLD
+The J. Geils Band
+66
+1982
+D
+Rock
+ALL ABOUT THAT BASS
+Meghan Trainor
+67
+2014
+F
+Pop
+(JUST LIKE) STARTING OVER
+John Lennon
+68
+1980
+M
+Rock
+ROYALS
+Lorde
+69
+2013
+F
+Rock
+THE BOYS IS MINE
+Brandy & Monica
+70
+1998
+F
+R&B
+BECAUSE I LOVE YOU
+Stevie B
+71
+1990
+M
+Pop
+I LOVE 8 'N ROLL
+Joan Jett & the Blackhearts
+72
+1982
+D
+Rock
+AQUARIUS/LET THE SUNSHINE IN
+The 5th Dimension
+73
+1969
+D
+Pop
+WHOOMP!
+Tag Team
+74
+1993
+D
+Hip-Hop
+MOVES LIKE JAGGER
+Maroon 5 Featuring Christina Aguilera
+75
+2011
+D
+Pop
+EBONY AND IVORY
+Paul McCartney and Stevie Wonder
+76
+1982
+M
+Pop
+RUSH RUSH
+Paula Abdul
+77
+1991
+F
+Pop
+THAT'S WHAT FRIENDS ARE FOR
+Dionne & Friends
+78
+1986
+D
+R&B
+HAPPY
+Pharrell
+79
+2014
+M
+R&B
+UPSIDE DOWN
+Diana Ross
+80
+1980
+F
+Dance
+SUGAR, SUGAR
+The Archies
+81
+1969
+D
+Pop
+JUST THE WAY YOU ARE
+Bruno Mars
+82
+2010
+M
+Pop
+DILEMMA
+Nelly Featuring Kelly Rowland
+83
+2002
+M
+Hip-Hop
+I HEARD IT THROUGH THE GRAPEVINE
+Marvin Gaye
+84
+1968
+M
+R&B
+YOU’RE STILL THE ONE
+Shania Twain
+85
+1997
+F
+Country
+BILLIE JEAN
+Michael Jackson
+86
+1983
+M
+R&B
+HOT STUFF
+Donna Summer
+87
+1979
+F
+Dance
+ROCKSTAR
+Post Malone Featuring 21 Savage
+88
+2017
+M
+Hip-Hop
+GANGSTA’S PARADISE
+Coolio Featuring L.V.
+89
+1995
+M
+Hip-Hop
+ABRACADABRA
+The Steve Miller Band
+90
+1982
+D
+Rock
+PERFECT
+Ed Sheeran
+91
+2017
+M
+Pop
+YOU’RE SO VAIN
+Carly Simon
+92
+1973
+F
+Pop
+PLAY THAT FUNKY MUSIC
+Wild Cherry
+93
+1976
+D
+R&B
+SAY YOU, SAY ME
+Lionel Richie
+94
+1985
+M
+R&B
+MY SHARONA
+The Knack
+95
+1979
+D
+Rock
+ALL NIGHT LONG
+Lionel Richie
+96
+1983
+M
+R&B
+NOTHING COMPARES 2 U
+Sinead O’Connor
+97
+1990
+F
+Rock
+I SWEAR
+All 4 One
+98
+1994
+D
+R&B
+FAMILY AFFAIR
+Mary J. Blige
+99
+2001
+F
+R&B
+WAITING FOR A GIRL LIKE YOU
+Foreigner
+100
+1977
+D
+Rock
+ARE YOU LONESOME TONIGHT
+Elvis Presley
+101
+1960
+M
+Rock
+KILLING ME SOFTLY WITH HIS SONG
+Roberta Flack
+102
+1973
+F
+R&B
+SEE YOU AGAIN
+Wiz Khalifa Featuring Charlie Puth
+103
+2015
+M
+Hip-Hop
+HURTS SO GOOD
+John Cougar
+104
+1984
+M
+Rock
+I’LL BE MISSING YOU
+Puff Daddy and Faith Evans Featuring 112
+105
+1997
+D
+Hip-Hop
+DARK HORSE
+Katy Perry Featuring Juicy J
+106
+2014
+F
+Pop
+RAINDROPS KEEP FALLIN ON MY HEAD
+B.J. Thomas 
+107
+1970
+M
+Pop
+THRIFT SHOP
+Macklemore and Ryan Lewis Featuring Wanz
+108
+2013
+D
+Hip-Hop
+ANOTHER DAY IN PARADISE
+Phil Collins
+109
+1989
+M
+Rock
+ONE MORE NIGHT
+Maroon 5
+110
+2012
+D
+Pop
+BEST OF MY LOVE
+The Emotions
+111
+1977
+D
+R&B
+WE ARE YOUNG
+Fun
+112
+2012
+D
+Rock
+THAT’S WHAT I LIKE
+Bruno Mars
+113
+2017
+M
+R&B
+YOU MAKE ME WANNA
+Usher
+114
+1997
+M
+R&B
+BIG GIRLS DON’T CRY
+Fergie
+115
+2007
+F
+Pop
+THE WAY WE WERE
+Barbra Streisand
+116
+1974
+F
+Pop
+ANOTHER NIGHT
+Real McCoy
+117
+1994
+D
+Dance
+IT’S NOW OR NEVER
+Elvis Presley With The Jordanaires
+118
+1960
+M
+Rock
+DO THAT TO ME ONE MORE TIME
+Captain & Tennille
+119
+1980
+D
+Pop
+A FIFTH OF BEETHOVEN
+Walter Murphy & The Big Apple Band
+120
+1976
+D
+Dance
+LIKE A VIRGIN
+Madonna
+121
+1984
+F
+Pop
+MARIA MARIA
+Santana Featuring The Product D&B
+122
+2000
+D
+R&B
+WHEN DOVES CRY
+Prince
+123
+1984
+M
+R&B
+I WILL SURVIVE
+Gloria Gaynor
+124
+1979
+F
+Dance
+I CAN’T STOP LOVING YOU
+Ray Charles
+125
+1962
+M
+R&B
+U GOT IT BACK
+Usher
+126
+2001
+M
+R&B
+WHATEVER YOU LIKE
+T.I.
+127
+2008
+M
+Hip-Hop
+DOWN
+Jay Sean Featuring Lil Wayne
+128
+2009
+M
+Pop
+BLEEDING LOVE
+Leona Lewis
+129
+2008
+F
+Pop
+JOY TO THE WORLD
+Three Dog Night
+130
+1971
+D
+Rock
+INDEPENDENT WOMEN PART 1
+Destiny’s Child
+131
+2000
+D
+R&B
+FOOLISH
+Ashanti
+132
+2002
+F
+R&B
+MANEATER
+Daryl Hall John Oates
+133
+1982
+D
+Pop
+MY LOVE
+Paul McCartney and Wings
+134
+1973
+D
+Rock
+THE HILLS
+The Weeknd
+135
+2015
+M
+R&B
+NOBODY KNOWS
+The Tony Rich Project
+136
+1996
+M
+R&B
+ALONE AGAIN NATURALLY
+Gilbert O'Sullivan
+137
+1972
+M
+Pop
+ALL OF ME
+John Legend
+138
+2014
+M
+R&B
+SHAKE IT OFF
+Taylor Swift
+139
+2014
+F
+Pop
+THE FIRST TIME EVER I SAW YOUR FACE
+Roberta Flack
+140
+1972
+F
+R&B
+ONE DANCE
+Drake Featuring WizKid & Kyla
+141
+2016
+M
+Hip-Hop
+RADIOACTIVE
+Imagine Dragons
+142
+2013
+D
+Rock
+SEXY AND I KNOW IT
+LMFAO
+143
+2012
+D
+Pop
+SOMEONE LIKE YOU
+Adele
+144
+2011
+F
+Pop
+HEY YA!
+OutKast
+145
+2003
+D
+R&B
+ANOTHER BRICK IN THE WALL
+Pink Floyd
+146
+1980
+D
+Rock
+BURN
+Usher
+147
+2004
+M
+R&B
+THE WAY YOU MOVE
+OutKast Featuring Sleepy Brown
+148
+2004
+D
+Hip-Hop
+GOD'S PLAN
+Drake
+149
+2018
+M
+Hip-Hop
+FAITH
+George Michael
+150
+1987
+M
+Pop
+CRANK THAT
+Soulja Boy Tell’em
+151
+2007
+M
+Hip-Hop
+BECAUSE YOU LOVED ME
+Celine Dion
+152
+1996
+F
+Pop
+IN DA CLUB
+50 Cent
+153
+2003
+M
+Hip-Hop
+VENUS
+Frankie Avalon
+154
+1959
+M
+Pop
+COUNTING STARS
+OneRepublic
+155
+2014
+D
+Pop
+CRAZY LITTLE THING CALLED LOVE
+Queen
+156
+1980
+D
+Rock
+RHINESTONE COWBOY
+Glen Campbell
+157
+1975
+M
+Country
+BREATHE
+Faith Hill
+158
+2000
+F
+Country
+I’M SORRY
+Brenda Lee
+159
+1960
+F
+Pop
+IRREPLACEABLE
+Beyonce
+160
+2006
+F
+R&B
+TOTAL ECLIPSE OF THE HEART
+Bonnie Tyler
+161
+1983
+F
+Pop
+CARELESS WHISPER
+Wham! Featuring George Michael
+162
+1985
+D
+Pop
+KISS YOU ALL OVER
+Exile
+163
+1978
+D
+Pop
+HANGING BY A MOMENT
+Lifehouse
+164
+2001
+D
+Rock
+WALK LIKE AN EGYPTIAN 
+The Bangles
+165
+1986
+D
+Pop
+E.T.
+Katy Perry ft. Kanye West
+166
+2011
+F
+Pop
+NEL BLU DIPINTO DI BLU
+Domenico Modugno
+167
+1958
+M
+Pop
+TO KNOW HIM, IS TO LOVE HIM
+The Teddy Bears
+168
+1958
+D
+Pop
+LOSE YOURSELF 
+Eminem 
+169
+2002
+M
+Hip-Hop
+I'LL BE THERE
+Jackson 5
+170
+1970
+D
+R&B
+FALLIN' 
+Alicia Keys 
+171
+2001
+F
+R&B
+CREEP 
+TLC
+172
+1995
+D
+R&B
+LOVE THEME FROM "A STAR IS BORN"
+Barbra Streisand
+173
+1977
+F
+Pop
+LOVE IS BLUE
+Paul Mauriat and his Orchestra 
+174
+1968
+M
+Pop
+DISCO DUCK
+Rick Dees & his Cast of Idiots
+175
+1976
+M
+Pop
+I’M REAL
+Jennifer Lopez
+176
+2001
+F
+Pop
+GOODIES
+Ciara
+177
+2004
+F
+R&B
+HELLO, DOLLY!
+Louis Armstrong and The All Stars
+178
+1964
+D
+Latin-Jazz
+DON’T YOU WANT ME
+The Human League
+179
+1982
+D
+Dance
+DO YA THINK I’M SEXY
+Rod Stewart
+180
+1978
+M
+Pop
+WATERFALLS
+TLC
+181
+1994
+D
+R&B
+MAGGIEMAY/REASON TO BELIEVE
+Rod Stewart
+182
+1971
+M
+Rock
+BIG GIRLS DON’T CRY
+Four Seasons
+183
+1962
+D
+Pop
+NOT IN HERRE
+Nelly
+184
+2002
+M
+Hip-Hop
+I WRITE THE SONGS
+Barry Manilow
+185
+1976
+M
+Pop
+JESSIE’S GIRL
+Rick Springfield
+186
+1981
+M
+Pop
+GONNA MAKE YOU SWEAT
+C+C Music Factory
+187
+1991
+D
+Dance
+BOOGIE OOGIE OOGIE
+A Taste Of Honey
+188
+1978
+D
+Dance
+WOMAN IN LOVE
+Barbra Streisand
+189
+1980
+F
+Pop
+TRAP QUEEN
+Fetty Wap
+190
+2015
+M
+Hip-Hop
+RUN IT!
+Chris Brown
+191
+2005
+M
+R&B
+PHILADELPHIA FREEDOM
+The Elton John Band
+192
+1975
+D
+Pop
+LOVE YOURSELF
+Justin Bieber
+193
+2016
+M
+Pop
+SUGAR SHACK
+Jimmy Gilmer And The Fireballs
+194
+1963
+D
+Pop
+HONKY TONK WOMEN
+The Rolling Stones
+195
+1969
+D
+Rock
+JUST DANCE
+Lady Gaga
+196
+2009
+F
+Pop
+VOGUE
+Madonna
+197
+1990
+F
+Pop
+TOM DOOLEY
+The Kingston Trio
+198
+1958
+D
+Pop
+LOVE TAKES TIME
+Mariah Carey
+199
+1990
+F
+R&B
+MY BOO
+Usher and Alicia Keys
+200
+2004
+D
+R&B
